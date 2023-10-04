@@ -31,11 +31,11 @@ public class MovieController {
     // http://localhost:8000/api/v1/movies
     @GetMapping
     public ResponseEntity<List<Movie>> getMovies() {
-        return new ResponseEntity<>(movieService.getMovies(), HttpStatus.FOUND);
+        return new ResponseEntity<>(movieService.getMovies(), HttpStatus.OK);
     }
 
     @GetMapping("/{id}")
     public ResponseEntity<Optional<Movie>> getMovieById(@PathVariable("id") String imdbId) {
-        return new ResponseEntity<>(movieService.getMovieById(imdbId), HttpStatus.FOUND);
+        return new ResponseEntity<>(movieService.getMovieById(imdbId), HttpStatus.OK);
     }
 }
