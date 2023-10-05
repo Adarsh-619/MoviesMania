@@ -9,11 +9,11 @@
 3. Then you can connect to the mongodb using the uri: `mongodb+srv://<username>:<password>@cluster0.vwqr5vp.mongodb.net/`  
     Make sure to replace <password>with your own password</password>
 4. After this you need to create a database(movies-api-db) and a collection(movies) inside it.
-5. In order to populate the data, we will use a pre-existing file perfect for our use case movies.json
+5. In order to populate the data, we will use a pre-existing file perfect for our use case [movies.json](../Resources/movies.json)
 
 ### Spring Initializer
 
-![Spring Initializer](../resources/assets/04433eccb962bf808b42f6b9ed75113a.png)
+![Spring Initializer](../Resources/assets/04433eccb962bf808b42f6b9ed75113a.png)
 
 6. Finally extract the zip and open the folder in Intellij IDEA
 7. Add the following configs to application.properties:

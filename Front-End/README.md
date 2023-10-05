@@ -18,9 +18,9 @@
         \-**@mui/material @emotion/react @emotion/styled**: Material UI Styling  
         \-**react-material-ui-carousel**: Material UI Carousel Theme
 
-![4473228505e4522e27791cc7b2d52a6f.png](../resources/assets/4473228505e4522e27791cc7b2d52a6f.png)  
-![dc2bd2d149bddd098502f6161c200bdc.png](../resources/assets/dc2bd2d149bddd098502f6161c200bdc.png)  
-![cfa3e01544290fdf258619db7de55485.png](../resources/assets/cfa3e01544290fdf258619db7de55485.png)
+![4473228505e4522e27791cc7b2d52a6f.png](../Resources/assets/4473228505e4522e27791cc7b2d52a6f.png)  
+![dc2bd2d149bddd098502f6161c200bdc.png](../Resources/assets/dc2bd2d149bddd098502f6161c200bdc.png)  
+![cfa3e01544290fdf258619db7de55485.png](../Resources/assets/cfa3e01544290fdf258619db7de55485.png)
 
 4. If inside create-react-app add `import 'bootstrap/dist/css/bootstrap.min.css'` inside the index.js file else inside the vite app add `import 'bootstrap/dist/css/bootstrap.min.css'` inside main.js
 

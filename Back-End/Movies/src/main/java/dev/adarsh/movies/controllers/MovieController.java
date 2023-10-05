@@ -2,7 +2,6 @@ package dev.adarsh.movies.controllers;
 
 import dev.adarsh.movies.entities.Movie;
 import dev.adarsh.movies.services.MovieService;
-import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
