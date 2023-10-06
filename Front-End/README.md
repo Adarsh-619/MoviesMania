@@ -3,7 +3,7 @@
 ## Steps
 
 1. We will be using vite so in order to initialise a project in vite use `npm create vite@latest` and then fill in the following:  
-    ![Vite Startup.png](../_resources/4b3ee6ac64a0a98e66a60a9b0769e0d0.png)  
+    ![Vite Startup.png](../Resources/assets/4b3ee6ac64a0a98e66a60a9b0769e0d0.png)  
     Here you get to choose the framework and the language as well between javascript and typescript.  
     Post which install the dependencies with the given instructions
 2. Then you can start the app

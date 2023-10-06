@@ -4,10 +4,10 @@
 
 1. Create a project on mongo atlas inside of which create a database(shared) of AWS provider stating the region as ap-south-1(MUMBAI)
 2. Create an username and password for the cluster for security purposes
-    - Username: <username>
-    - Password: <password>
+    - Username: \<username>
+    - Password: \<password>
 3. Then you can connect to the mongodb using the uri: `mongodb+srv://<username>:<password>@cluster0.vwqr5vp.mongodb.net/`  
-    Make sure to replace <password>with your own password</password>
+    Make sure to replace with your own password
 4. After this you need to create a database(movies-api-db) and a collection(movies) inside it.
 5. In order to populate the data, we will use a pre-existing file perfect for our use case [movies.json](../Resources/movies.json)
 
