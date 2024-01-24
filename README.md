@@ -52,4 +52,5 @@
 
 https://github.com/Adarsh-619/MoviesMania/assets/53617091/b1c8d092-1e4f-4f93-aa09-88a2aa6bcc6f
 
-
+## License
+[MIT License](LICENSE)
